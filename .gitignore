@@ -1,0 +1,8 @@
+WORLD_QA_*
+WORLD_QA_*/*
+crash-reports
+crash-reports/*
+logs
+logs/*
+minetweaker.log
+

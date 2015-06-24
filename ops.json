@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "uuid": "2ad5a9a2-f941-461b-b4fc-da37fd5f1c0b",
+    "name": "Nemesis_X00",
+    "level": 4
+  },
+  {
+    "uuid": "4bdec136-b3bf-4b26-a0f0-bb17bb8bb627",
+    "name": "sab0naut",
+    "level": 4
+  },
+  {
+    "uuid": "9f730a4b-17b1-49cf-b21f-4a1328550805",
+    "name": "ElIndio",
+    "level": 4
+  },
+  {
+    "uuid": "8390c21a-d26e-4d36-8a03-980ba87e6f9f",
+    "name": "keesa_irgod",
+    "level": 4
+  }
+]
